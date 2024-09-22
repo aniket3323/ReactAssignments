@@ -1,0 +1,24 @@
+Question 1.
+
+Create a user list web application(Use CSS)
+a)Create Add User Component using react
+b)Create User List Component using react(use table)
+Fields: Username, Gender, Date of Birth
+
+Question 2.
+
+Create following rest apis for user list web application of question
+1)use array to store data
+APIS:
+POST/new->Add new user
+POST/list->All user list
+(You can use express or nodejs to create rest apis)
+
+Question 3.
+
+write a book app in javascript and follow below option
+Field: Book Name, Auther, Publishing Date, Price, Language(Use CheckBox: Hindi, English, Marathi)
+a) Show book details in table on button click
+b) Book name must be of at least 3 charactors
+c) Price must be greater than 200
+d) At least two language must be selected

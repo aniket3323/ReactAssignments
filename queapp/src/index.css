@@ -1,0 +1,22 @@
+#uname{
+    background-color: #adfffb;
+    text-align: center;
+    border-color: red;
+    height: 20px;
+    width: 150px;
+}
+#btn{
+    background-color: #adfffb;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-color: red;
+    height: 20px;
+    width: 80px;
+}
+#btn:hover{
+    opacity: 0.4;
+}
+#tbl{
+    background: #adfffb;
+}
